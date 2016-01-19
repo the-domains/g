@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5226713871189694
+  lightness: 0.11081286941278257
+  rhythmicContrast: 0.5465788576439232
+  saturation: 0.27026494592201944
+cta: {}
+layout_spectrum: 0.29209492286093797
+name: g105
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.1915831523809779
