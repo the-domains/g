@@ -1,18 +1,31 @@
-analytics: {}
+name: g105
+favicon: null
+layout_spectrum: 0.29209492286093797
+typography_spectrum: 0.1915831523809779
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.5226713871189694
+    - '#9d9e99'
+    - '#d1d1cf'
+    - '#363833'
+    - '#565b54'
+    - '#7a8479'
+  brandStrength: 0.0625
   lightness: 0.11081286941278257
-  rhythmicContrast: 0.5465788576439232
   saturation: 0.27026494592201944
-cta: {}
-layout_spectrum: 0.29209492286093797
-name: g105
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.1915831523809779
+  rhythmicContrast: 0.5465788576439232
+purpose:
+  - name: null
+    item: null
+    url: null
