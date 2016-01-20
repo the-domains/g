@@ -4,7 +4,7 @@
         <description><![CDATA[g105]]></description>
         <link>https://thegrid.ai/g/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 00:06:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jan 2016 00:09:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/g/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,9 +15,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee1d9a5a-a74f-49b4-8fc4-1bc0359a6428.jpg">]]></description>
             <link>https://thegrid.ai/g/a822f605-8697-45e1-af03-dfae861ed956/index.html</link>
             <guid isPermaLink="false">a822f605-8697-45e1-af03-dfae861ed956</guid>
-            <pubDate>Wed, 20 Jan 2016 00:06:37 GMT</pubDate>
+            <pubDate>Wed, 20 Jan 2016 00:09:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
